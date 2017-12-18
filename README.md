@@ -11,7 +11,7 @@ $ webpack -v
 
 ## Develope
 
-Run `npm i` to install depedencies for this project.
+Run `npm i` to install depedencies for this project.<br>
 Run `webpack-dev-server` to develop with livereload.
 
 ## Build
